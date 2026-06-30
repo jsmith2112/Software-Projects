@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\bin\Debug\Jeffrey_Smith_CC6Q4.exe.config
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\bin\Debug\Jeffrey_Smith_CC6Q4.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\bin\Debug\Jeffrey_Smith_CC6Q4.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\obj\Debug\Jeffrey_Smith_CC6Q4.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\obj\Debug\Jeffrey_Smith_CC6Q4.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\obj\Debug\Jeffrey_Smith_CC6Q4.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\obj\Debug\Jeffrey_Smith_CC6Q4.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CC6Q4\Jeffrey_Smith_CC6Q4\obj\Debug\Jeffrey_Smith_CC6Q4.exe.config

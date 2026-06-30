@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\bin\Debug\Jeffrey_Smith_CA2.exe.config
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\bin\Debug\Jeffrey_Smith_CA2.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\bin\Debug\Jeffrey_Smith_CA2.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\obj\Debug\Jeffrey_Smith_CA2.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\obj\Debug\Jeffrey_Smith_CA2.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\obj\Debug\Jeffrey_Smith_CA2.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\obj\Debug\Jeffrey_Smith_CA2.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_CA2\Jeffrey_Smith_CA2\obj\Debug\Jeffrey_Smith_CA2.exe.config
