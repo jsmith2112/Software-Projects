@@ -1,0 +1,11 @@
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.Form1.resources
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.Properties.Resources.resources
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.csproj.GenerateResource.cache
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\bin\Debug\SimpleCalendarApp.exe.config
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\bin\Debug\SimpleCalendarApp.exe
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\bin\Debug\SimpleCalendarApp.pdb
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.exe
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.pdb
+C:\Users\jsmit\source\repos\SimpleCalendarApp\SimpleCalendarApp\obj\Debug\SimpleCalendarApp.exe.config
