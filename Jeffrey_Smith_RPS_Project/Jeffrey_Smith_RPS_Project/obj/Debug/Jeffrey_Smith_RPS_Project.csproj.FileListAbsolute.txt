@@ -1,0 +1,11 @@
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\bin\Debug\Jeffrey_Smith_RPS_Project.exe.config
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\bin\Debug\Jeffrey_Smith_RPS_Project.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\bin\Debug\Jeffrey_Smith_RPS_Project.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.Form1.resources
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.Properties.Resources.resources
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.csproj.GenerateResource.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_RPS_Project\Jeffrey_Smith_RPS_Project\obj\Debug\Jeffrey_Smith_RPS_Project.exe.config

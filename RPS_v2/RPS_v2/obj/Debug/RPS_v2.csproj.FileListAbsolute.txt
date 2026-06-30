@@ -1,0 +1,11 @@
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\bin\Debug\RPS_v2.exe.config
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\bin\Debug\RPS_v2.exe
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\bin\Debug\RPS_v2.pdb
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.Form1.resources
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.Properties.Resources.resources
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.csproj.GenerateResource.cache
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.exe
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.pdb
+C:\Users\jsmit\source\repos\RPS_v2\RPS_v2\obj\Debug\RPS_v2.exe.config

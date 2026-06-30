@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\bin\Debug\RPS_Test1.exe.config
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\bin\Debug\RPS_Test1.exe
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\bin\Debug\RPS_Test1.pdb
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\obj\Debug\RPS_Test1.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\obj\Debug\RPS_Test1.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\obj\Debug\RPS_Test1.exe
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\obj\Debug\RPS_Test1.pdb
+C:\Users\jsmit\source\repos\RPS_Test1\RPS_Test1\obj\Debug\RPS_Test1.exe.config
