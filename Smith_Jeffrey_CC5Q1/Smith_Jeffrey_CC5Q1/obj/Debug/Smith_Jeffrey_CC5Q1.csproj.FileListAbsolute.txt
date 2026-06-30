@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\bin\Debug\Smith_Jeffrey_CC5Q1.exe.config
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\bin\Debug\Smith_Jeffrey_CC5Q1.exe
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\bin\Debug\Smith_Jeffrey_CC5Q1.pdb
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\obj\Debug\Smith_Jeffrey_CC5Q1.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\obj\Debug\Smith_Jeffrey_CC5Q1.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\obj\Debug\Smith_Jeffrey_CC5Q1.exe
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\obj\Debug\Smith_Jeffrey_CC5Q1.pdb
+C:\Users\jsmit\source\repos\Smith_Jeffrey_CC5Q1\Smith_Jeffrey_CC5Q1\obj\Debug\Smith_Jeffrey_CC5Q1.exe.config
