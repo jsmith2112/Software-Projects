@@ -1,0 +1,10 @@
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.Properties.Resources.resources
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.csproj.GenerateResource.cache
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\bin\Debug\Calendar_App.exe.config
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\bin\Debug\Calendar_App.exe
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\bin\Debug\Calendar_App.pdb
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.exe
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.pdb
+C:\Users\jsmit\source\repos\Calendar_App\Calendar_App\obj\Debug\Calendar_App.exe.config
