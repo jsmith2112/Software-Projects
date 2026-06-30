@@ -1,0 +1,11 @@
+﻿  Update13-14.cpp
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(159,17): error C2446: '==': no conversion from 'const char [2]' to 'int'
+      C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(159,20):
+      There is no context in which this conversion is possible
+  
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(197,17): error C3861: 'validateMetricDimensions': identifier not found
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(198,18): error C3861: 'validateMetricDimensions': identifier not found
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(199,22): error C3861: 'validateMetricDimensions': identifier not found
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(200,23): error C3861: 'validatvalidateMetricDimensionseCostMetric': identifier not found
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(201,22): error C3861: 'validateMetricDimensions': identifier not found
+C:\Users\jsmit\source\repos\Update13-14\Update13-14\Update13-14.cpp(202,23): error C3861: 'validateMetricDimensions': identifier not found
