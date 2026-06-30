@@ -1,0 +1,7 @@
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\jsmit\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
