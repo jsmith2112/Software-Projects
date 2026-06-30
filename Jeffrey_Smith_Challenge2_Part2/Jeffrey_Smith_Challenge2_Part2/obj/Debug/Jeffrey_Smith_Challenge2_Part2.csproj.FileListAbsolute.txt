@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\bin\Debug\Jeffrey_Smith_Challenge2_Part2.exe.config
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\bin\Debug\Jeffrey_Smith_Challenge2_Part2.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\bin\Debug\Jeffrey_Smith_Challenge2_Part2.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\obj\Debug\Jeffrey_Smith_Challenge2_Part2.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\obj\Debug\Jeffrey_Smith_Challenge2_Part2.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\obj\Debug\Jeffrey_Smith_Challenge2_Part2.exe
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\obj\Debug\Jeffrey_Smith_Challenge2_Part2.pdb
+C:\Users\jsmit\source\repos\Jeffrey_Smith_Challenge2_Part2\Jeffrey_Smith_Challenge2_Part2\obj\Debug\Jeffrey_Smith_Challenge2_Part2.exe.config
