@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\bin\Debug\CodingAssignment1.exe.config
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\bin\Debug\CodingAssignment1.exe
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\bin\Debug\CodingAssignment1.pdb
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\obj\Debug\CodingAssignment1.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\obj\Debug\CodingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\obj\Debug\CodingAssignment1.exe
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\obj\Debug\CodingAssignment1.pdb
+C:\Users\jsmit\source\repos\CodingAssignment1\CodingAssignment1\obj\Debug\CodingAssignment1.exe.config

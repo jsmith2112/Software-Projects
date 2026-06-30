@@ -1,0 +1,8 @@
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\bin\Debug\CodingChallenge1.exe.config
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\bin\Debug\CodingChallenge1.exe
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\bin\Debug\CodingChallenge1.pdb
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\obj\Debug\CodingChallenge1.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\obj\Debug\CodingChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\obj\Debug\CodingChallenge1.exe
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\obj\Debug\CodingChallenge1.pdb
+C:\Users\jsmit\source\repos\CodingChallenge1\CodingChallenge1\obj\Debug\CodingChallenge1.exe.config
