@@ -1,0 +1,2 @@
+C:\Users\jsmit\source\repos\Test11\Test11\obj\Debug\Test11.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Test11\Test11\obj\Debug\Test11.csproj.CoreCompileInputs.cache

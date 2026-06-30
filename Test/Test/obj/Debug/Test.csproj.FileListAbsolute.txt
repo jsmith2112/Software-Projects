@@ -1,0 +1,10 @@
+C:\Users\jsmit\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\jsmit\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\jsmit\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\jsmit\source\repos\Test\Test\obj\Debug\Test.exe.config

@@ -1,0 +1,1 @@
+cd /home/arch16/projects/TestApp/; g++ -o "/home/arch16/projects/TestApp/bin/x64/Debug/TestApp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/arch16/projects/TestApp/obj/x64/Debug/main.o

@@ -1,0 +1,7 @@
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\bin\Debug\Test_Calendar.exe.config
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\bin\Debug\Test_Calendar.exe
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\bin\Debug\Test_Calendar.pdb
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\obj\Debug\Test_Calendar.csproj.AssemblyReference.cache
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\obj\Debug\Test_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\obj\Debug\Test_Calendar.exe
+C:\Users\jsmit\source\repos\Test_Calendar\Test_Calendar\obj\Debug\Test_Calendar.pdb

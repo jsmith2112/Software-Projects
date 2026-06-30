@@ -1,0 +1,9 @@
+﻿  Validating sources
+  Copying sources remotely to 'chicago.uccs.edu'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  TestApp.vcxproj -> C:\Users\jsmit\source\repos\TestApp\TestApp\bin\x64\Debug\TestApp.out
